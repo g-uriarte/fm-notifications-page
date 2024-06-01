@@ -40,6 +40,7 @@ Users should be able to:
 - CSS flexbox
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- Typescript
 - [Taildwindcss](https://tailwindcss.com/) - For styles
 
 ## Author
