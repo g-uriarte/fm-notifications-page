@@ -1,7 +1,7 @@
 import { FC } from "react"
 import { NotificationItemProps } from "../NotificationItem"
 import { NotificationContent } from "../NotificationContent"
-import { NotificationUnfollow as NotificationUnfollowType } from "../../../types/notification"
+import { NotificationUnfollow as NotificationUnfollowType } from "../../../types/types"
 
 export const NotificationUnfollow: FC<NotificationItemProps<NotificationUnfollowType>> = ({
     readNotification,
